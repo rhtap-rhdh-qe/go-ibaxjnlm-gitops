@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-ibaxjnlm:bc9e6d6399931bac5cc0b595e36f5cdd2498c157@sha256:79ec0e725af5a10cd2cb3204f2d033378f5352582ae888f8f7990336fa7eed33
+        - image: quay.io/rhtap_qe/go-ibaxjnlm:b28ae6df57a8fdec0e1d0008abfa191d91cbd149@sha256:6b1ed49b9f2ba75f5858e598beea694678eeababcb35f24dcc436872edab1158
           name: container-image
